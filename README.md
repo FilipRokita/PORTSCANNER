@@ -2,12 +2,6 @@
 
 PORTSCANNER is a simple Python program that allows you to check if a specific port is open or closed for a given IP address.
 
-## Info
-
-- Name: PORTSCANNER
-- Author: Filip Rokita
-- Website: www.filiprokita.com
-
 ## Installation
 
 PORTSCANNER does not require any external libraries to run. Simply download and run the program.
